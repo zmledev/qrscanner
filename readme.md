@@ -33,8 +33,12 @@ https://ziedmaaloul.site
 
 E-Mail : me[@]ziedmaaloul.site
 
-Follow my Youtube Channel : http://urys.xyz/4
+###Follow me
+
+Youtube Channel : http://urys.xyz/4
+
 Linked In : http://urys.xyz/38wkw
+
 Facebook Page : http://urys.xyz/kqkx7
 
    
