@@ -30,6 +30,7 @@ cordova emulate android
 Mohamed Zied Maaloul : Full Stack Developper
 
 https://ziedmaaloul.site
+
 E-Mail : me[@]ziedmaaloul.site
 
 Follow my Youtube Channel : http://urys.xyz/4
